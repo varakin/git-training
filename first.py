@@ -7,6 +7,8 @@ list = ['собрать ковдозеро в одну папку',
     'zxc',
     'rty',
     'fgh',
+    'zxcvzxcvzxvczxcvcxzv',
+    'zxcvzxcvxzcvzxcvzxcvzxcvzxcvzxcvzxcv',
     'vbn']
 
 rez = random.choice(list)
