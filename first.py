@@ -10,6 +10,16 @@ list = ['собрать ковдозеро в одну папку',
     'zxcvzxcvzxvczxcvcxzv',
     'zxcvzxcvxzcvzxcvzxcvzxcvzxcvzxcvzxcv',
         'asdfasdfdsfdsfsdafsdafsdafsdafsdafsdafdasfsdafsdafsadfsdafdsafsdafsdafsdaf',
+    'asdklfjsdajfsdajfkldsajfkladjsfjsdakl;fjdsakl;fjsdkla;jf',
+    'asdklfjsdajfsdajfkldsajfkladjsfjsdakl;fjdsakl;fjsdkla;jf',
+    'asdklfjsdajfsdajfkldsajfkladjsfjsdakl;fjdsakl;fjsdkla;jf',
+    'asdklfjsdajfsdajfkldsajfkladjsfjsdakl;fjdsakl;fjsdkla;jf',
+    'asdklfjsdajfsdajfkldsajfkladjsfjsdakl;fjdsakl;fjsdkla;jf',
+    'asdklfjsdajfsdajfkldsajfkladjsfjsdakl;fjdsakl;fjsdkla;jf',
+    'asdklfjsdajfsdajfkldsajfkladjsfjsdakl;fjdsakl;fjsdkla;jf',
+    'asdklfjsdajfsdajfkldsajfkladjsfjsdakl;fjdsakl;fjsdkla;jf',
+    'asdklfjsdajfsdajfkldsajfkladjsfjsdakl;fjdsakl;fjsdkla;jf',
+    'asdklfjsdajfsdajfkldsajfkladjsfjsdakl;fjdsakl;fjsdkla;jf',
     'vbn']
 
 rez = random.choice(list)
