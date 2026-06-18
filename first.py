@@ -1,15 +1,7 @@
 import random
 
 list = ['собрать ковдозеро в одну папку',
-    'купить антивозгарайку',
-    'asdklfjsdajfsdajfkldsajfkladjsfjsdakl;fjdsakl;fjsdkla;jf',
-    'asdklfjsdajfsdajfkldsajfkladjsfjsdakl;fjdsakl;fjsdkla;jf',
-    'asdklfjsdajfsdajfkldsajfkladjsfjsdakl;fjdsakl;fjsdkla;jf',
-    'asdklfjsdajfsdajfkldsajfkladjsfjsdakl;fjdsakl;fjsdkla;jf',
-    'asdklfjsdajfsdajfkldsajfkladjsfjsdakl;fjdsakl;fjsdkla;jf',
-    'asdklfjsdajfsdajfkldsajfkladjsfjsdakl;fjdsakl;fjsdkla;jf',
-    'vbn']
-
+    'купить антивозгарайку', 'qwerty']
 rez = random.choice(list)
 print(rez.upper())
 
